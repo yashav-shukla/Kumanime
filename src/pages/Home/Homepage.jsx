@@ -122,8 +122,8 @@ const Homepage = () => {
                             </div>
                             <div className="latest mb-5">
                                 <div className="flex justify-between items-center">
-                                    <Title>Update Terbaru</Title>
-                                    <a href="/ongoing/page/1"className="text-white font-semibold transition-all hover:text-KUMANIME font-poppins text-xs md:text-sm">Lihat Semua {">>"}</a>
+                                    <Title>Update Anime</Title>
+                                    <a href="/ongoing/page/1"className="text-white font-semibold transition-all hover:text-KUMANIME font-poppins text-xs md:text-sm">of every Episode {">>"}</a>
                                 </div>
                                 <Cards>
                                     {
@@ -145,8 +145,8 @@ const Homepage = () => {
 
                             <div>
                                 <div className="flex justify-between items-center">
-                                    <Title>Anime Selesai</Title>
-                                    <a href="/completed/page/1" className="text-white font-semibold transition-all hover:text-KUMANIME font-poppins text-xs md:text-sm">Lihat Semua {">>"}</a>
+                                    <Title>Anime all</Title>
+                                    <a href="/completed/page/1" className="text-white font-semibold transition-all hover:text-KUMANIME font-poppins text-xs md:text-sm">of every Episode {">>"}</a>
                                 </div>
                                 <Slider>
                                     {
@@ -169,7 +169,7 @@ const Homepage = () => {
                         </div>
                         
                         <div className="lg:col-span-3">
-                            <Title>Berita</Title>
+                            <Title>Anime News</Title>
                             <div className="bg-bg-KUMANIME-semi">
                                 <Aside>
                                     {

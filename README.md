@@ -1,28 +1,22 @@
-#KUMANIME - Streaming Anime Sub Indo Gratis 🍿🐨
+# KUMANIME - Free Anime Streaming with English Subtitles 🍿🐨
 
-Selamat datang diKUMANIME, tempatnya nonton anime kesukaanmu dengan mudah dan nyaman! 🎉
+Welcome to KUMANIME, the place to watch your favorite anime easily and comfortably! 🎉
 
-## Pengenalan
+## Introduction
 
-KUMANIME adalah platform streaming anime subtitle Indonesia gratis yang bersumber dari [Otakudesu-API](https://github.com/rakarmp/unofficial-otakudesu-api) dan dibuat menggunakan [ReactJS](https://react.dev) dan [TailwindCSS](https://tailwindcss.com).
+KUMANIME is a free anime streaming platform that built using [ReactJS](https://react.dev) and [TailwindCSS](https://tailwindcss.com).
 
 ## Preview
 
 <img src="https://raw.githubusercontent.com/MastayY/KUMANIME/main/preview.png" />
 
-## Fitur
+## Features
 
-- **Tanpa Banner Iklan Yang Mengganggu:**KUMANIME merupakan website streaming anime tanpa banner iklan yang menganggu. Satu-satunya iklan hanyalah di streaming yang dimana itu bersumber dari API dan tidak bisa dihilangkan.
+- **No Intrusive Ad Banners:** KUMANIME is an anime streaming website without disturbing ad banners. The only ads are in the streaming which comes from the API and cannot be removed.
 
-- **User Friendly Interface:** UI yang bersih membuat navigasi diKUMANIME menjadi lebih mudah dan santai. Tidak ada lagi kebingungan ketika akan menonton anime!.
+- **User Friendly Interface:** Clean UI makes navigation in KUMANIME easier and more relaxed. No more confusion when watching anime!
 
-- **Responsive Design:**KUMANIME siap menemanimu di berbagai perangkat.
+- **Responsive Design:** KUMANIME is ready to accompany you on various devices.
 
-
-## Credits
-
-[Otakudesu-API](https://github.com/rakarmp/unofficial-otakudesu-api)
-
-## Support Me
-
-[Saweria](https://saweria.co/Mastay)
+## Live Preview
+Link: [  https://kumanimee.vercel.app/   ]
