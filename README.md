@@ -19,4 +19,4 @@ KUMANIME is a free anime streaming platform that built using [ReactJS](https://r
 - **Responsive Design:** KUMANIME is ready to accompany you on various devices.
 
 ## Live Preview
-Link: [  https://kumanimee.vercel.app/   ]
+Link: [  (https://kumanimeex.vercel.app/)   ]
